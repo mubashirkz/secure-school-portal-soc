@@ -1,0 +1,10 @@
+Authentication: SUCCESS
+
+SQL Injection PoC
+==================
+HTTP Status: 200
+admin found: True
+Gordon found: True
+Hack found: True
+Pablo found: True
+Bob found: True
