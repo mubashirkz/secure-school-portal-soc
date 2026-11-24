@@ -1,0 +1,5 @@
+Local File Inclusion PoC
+========================
+HTTP Status: 200
+LFI confirmed: a hostname-like value was disclosed.
+Disclosed value: 75cdb21db70e
